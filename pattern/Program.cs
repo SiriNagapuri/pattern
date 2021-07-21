@@ -4,6 +4,7 @@ namespace pattern
 {
     class Program
     {
+        // No Need to Add test cases for simple program file
         static void Main(string[] args)
         {
             Console.Write("Number of rows : ");
